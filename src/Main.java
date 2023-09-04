@@ -13,9 +13,9 @@ public class Main {
 
         boolean saida = true;
 
+        System.out.println("Bem vindo ao menu de criacao do supermercado");
 
         while(saida){
-            System.out.println("Bem vindo ao menu de criacao do supermercado");
             System.out.println(" 1: Adicionar algum produto");
             System.out.println(" 2: Mostrar informações do supermercado e do produto");
             System.out.println(" 3: Mostrar a quantidade de produtos de cada categoria disponível");
